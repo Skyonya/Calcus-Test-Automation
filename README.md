@@ -6,14 +6,21 @@ This project uses ```Ruby 2.7.6-1 with devkit``` and ```Selenium webdriver```
 
 You will need to install:
 
-Selenium webdriver: ```gem install selenium-webdriver```
+Selenium webdriver: 
+```
+gem install selenium-webdriver
+```
 
-Selenium webdriver development dependencies: ```gem install ffi```
+Selenium webdriver development dependencies: 
+```
+gem install ffi
+```
 
 ## Running Autotest
 You can run autotest using:
-
-```ruby TestCalcus.rb```
+```
+ruby TestCalcus.rb
+```
 
 ## Test steps
 
